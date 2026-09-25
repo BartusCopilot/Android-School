@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">zad6</string>
+    <string name="dzienny">Tryb dzienny wlaczony</string>
+    <string name="nocny">Tryb nocny wlaczony</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">zad7</string>
+    <string name="hint">Wpisz haslo</string>
+    <string name="hidden"> Haslo ukryte </string>
+</resources>
