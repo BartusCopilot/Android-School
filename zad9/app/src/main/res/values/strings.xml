@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">zad9</string>
+    <string name="red">czerwony</string>
+    <string name="green">zielony</string>
+    <string name="blue">niebieski</string>
+    <string name="text1">Przykladowy tekst c;</string>
+</resources>
