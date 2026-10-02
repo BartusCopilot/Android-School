@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">zad8</string>
+    <string name="option1">pizza ( 45 zl )</string>
+    <string name="option2">kebab ( 35 zl )</string>
+    <string name="option3">lody ( 20 zl )</string>
+    <string name="summary">suma: 0zl</string>
 </resources>
