@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">zad9-Spinner</string>
+    <string name="question">jaki kolor ma trawa ??</string>
+    <string name="button"> sprawdz swoja odpowiedz</string>
+    <string name="text1">aktualny wybor: czerwony</string>
+    <string-array name="options">
+        <item>czerwony</item>
+        <item>zielony</item>
+        <item>niebieski</item>
+        <item>zolty</item>
+    </string-array>
+</resources>
