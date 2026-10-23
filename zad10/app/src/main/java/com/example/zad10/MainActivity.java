@@ -27,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
         ListView list = findViewById(R.id.list);
         list.setChoiceMode(ListView.CHOICE_MODE_SINGLE);
 
-        String[] options = getResources().getStringArray(R.array.list);
+        String[] options = {"Czerwony", "Zielony", "Niebieski", "Zolty"};
         ArrayAdapter<String> adapter = new ArrayAdapter<>(
             this,
                     android.R.layout.simple_list_item_single_choice,

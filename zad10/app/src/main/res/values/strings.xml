@@ -3,9 +3,5 @@
     <string name="button">kliknij !</string>
     <string name="text">Wybrano: Brak </string>
     <string-array name="list">
-        <item>czerwony</item>
-        <item>zielony</item>
-        <item>niebieski</item>
-        <item>zolty</item>
     </string-array>
 </resources>

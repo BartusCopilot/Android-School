@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">zad11</string>
+    <string name="txt">Wpisz miesiac:</string>
+    <string name="hint1"> Styczen </string>
+    <string name="hint2"> Styczen, Luty </string>
+</resources>
